@@ -2,14 +2,14 @@
 
 ### Reduced test case required
 
-All bug reports and problem issues require a [**reduced test case**](https://css-tricks.com/reduced-test-cases/). Create one by forking any one of the [CodePen demos](https://codepen.io/desandro/pens/tags/?grid_type=list&selected_tag=flickity-docs&sort_order=asc) from [the docs](https://flickity.metafizzy.co).
+All bug reports and problem issues require a [**reduced test case**](https://css-tricks.com/reduced-test-cases/). Create one by forking any one of the [CodePen demos](https://codepen.io/jscoott/pens/tags/?grid_type=list&selected_tag=flickity-docs&sort_order=asc) from [the docs](https://flickity.metafizzy.co).
 
 **CodePens**
 
-+ [Basic](https://codepen.io/desandro/pen/azqbop)
-+ [imagesLoaded](https://codepen.io/desandro/pen/MYQWEe)
-+ [lazyLoad](https://codepen.io/desandro/pen/vOeGzL)
-+ [autoPlay](https://codepen.io/desandro/pen/RNQwaB)
++ [Basic](https://codepen.io/jscoott/pen/azqbop)
++ [imagesLoaded](https://codepen.io/jscoott/pen/MYQWEe)
++ [lazyLoad](https://codepen.io/jscoott/pen/vOeGzL)
++ [autoPlay](https://codepen.io/jscoott/pen/RNQwaB)
 
 **Test cases**
 
